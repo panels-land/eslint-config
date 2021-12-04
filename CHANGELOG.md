@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/panels-land/eslint-config/compare/v1.1.0...v1.2.0) (2021-12-04)
+
+
+### Features
+
+* promise executors are allowed to return ([842b46d](https://github.com/panels-land/eslint-config/commit/842b46d345b774354221a17b34681f46444b4504))
+
 # [1.1.0](https://github.com/panels-land/eslint-config/compare/v1.0.0...v1.1.0) (2021-12-04)
 
 
