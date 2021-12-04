@@ -154,6 +154,12 @@ module.exports = {
         allowUnboundThis: true,
       },
     ],
+    "prefer-const": [
+      "error",
+      {
+        destructuring: "all",
+      }
+    ],
     quotes: ["error", "single", { allowTemplateLiterals: false }],
     "quote-props": ["error", "as-needed"],
     "no-console": [
