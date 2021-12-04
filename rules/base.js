@@ -169,6 +169,7 @@ module.exports = {
       },
     ],
     "no-useless-constructor": "off",
+    "no-promise-executor-return": "off",
     "import/extensions": "off",
   },
 };
