@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/panels-land/eslint-config/compare/v1.2.0...v1.3.0) (2021-12-06)
+
+
+### Features
+
+* disabled default-case rule ([51b0b6b](https://github.com/panels-land/eslint-config/commit/51b0b6b6c1685dab80b13eeb614a6c1309d37aca))
+
 # [1.2.0](https://github.com/panels-land/eslint-config/compare/v1.1.0...v1.2.0) (2021-12-04)
 
 
