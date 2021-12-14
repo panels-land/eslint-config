@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/panels-land/eslint-config/compare/v1.4.0...v1.5.0) (2021-12-14)
+
+
+### Features
+
+* made package public ([4e704eb](https://github.com/panels-land/eslint-config/commit/4e704eb99575e8f197ee91482b853ff472fbae57))
+
 # [1.4.0](https://github.com/panels-land/eslint-config/compare/v1.3.0...v1.4.0) (2021-12-14)
 
 
