@@ -1,7 +1,7 @@
 {
-  "name": "@panels-land/eslint-config",
+  "name": "@panels/eslint-config",
   "version": "1.4.0",
-  "description": "",
+  "description": "Eslint config for panels",
   "main": "index.js",
   "scripts": {
     "commit": "cz",
@@ -59,6 +59,6 @@
     }
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   }
 }
