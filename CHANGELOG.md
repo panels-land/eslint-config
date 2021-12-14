@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/panels-land/eslint-config/compare/v1.3.0...v1.4.0) (2021-12-14)
+
+
+### Features
+
+* disabled class-methods-use-this ([3497fdb](https://github.com/panels-land/eslint-config/commit/3497fdb1e634e7735aa308cb3f59c42de3daf809))
+
 # [1.3.0](https://github.com/panels-land/eslint-config/compare/v1.2.0...v1.3.0) (2021-12-06)
 
 
