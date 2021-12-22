@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/panels-land/eslint-config/compare/v1.5.0...v1.6.0) (2021-12-22)
+
+
+### Features
+
+* disabled func-names ([cb3598a](https://github.com/panels-land/eslint-config/commit/cb3598ac14f04da3526eb2ce9f287926d33d7054))
+* improved @typescript-eslint/no-unused-vars ([ec0fb27](https://github.com/panels-land/eslint-config/commit/ec0fb27bc631ae57f78ef930b94387df5f5c5739))
+
 # [1.5.0](https://github.com/panels-land/eslint-config/compare/v1.4.0...v1.5.0) (2021-12-14)
 
 

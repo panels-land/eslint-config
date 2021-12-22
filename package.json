@@ -1,6 +1,6 @@
 {
   "name": "@panels/eslint-config",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Eslint config for panels",
   "main": "index.js",
   "scripts": {
