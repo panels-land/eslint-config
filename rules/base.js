@@ -57,7 +57,7 @@ module.exports = {
     "@typescript-eslint/no-redeclare": "error",
     "@typescript-eslint/no-use-before-define": "error",
     "@typescript-eslint/ban-types": "off",
-    "@typescript-eslint/no-unused-vars": "warn",
+    "@typescript-eslint/no-unused-vars": ["warn", { ignoreRestSiblings: true, argsIgnorePattern: '^_' }],
     "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "@typescript-eslint/array-type": ["error", { default: "generic" }],
