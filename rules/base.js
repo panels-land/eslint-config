@@ -172,6 +172,7 @@ module.exports = {
     "no-promise-executor-return": "off",
     "import/extensions": "off",
     "default-case": "off",
-    "class-methods-use-this": "off"
+    "class-methods-use-this": "off",
+    "func-names": "off"
   },
 };
